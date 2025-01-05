@@ -65,7 +65,6 @@ stamp-h
 stamp-h.in
 stamp-h1
 tests/init
-tests/tests_*
 tests/*.log
 tests/*.trs
 test-suite.log
